@@ -2,7 +2,7 @@
 theme: league
 ---
 
-## An Analysis of student progress in project 1
+## An Analysis Of Student Progress In Project 1
 
 #### by Colin Jaffe
 
@@ -26,7 +26,7 @@ Since this is a code-adjacent **workflow** **tool**, if students are using it co
 
 ---
 
-### User Story 3 was the most challenging for students
+### User Story 3 Was The Most Challenging For Students
 
 6 students struggled with this one (**Carl**, **Desmonda**, **Jessica**, **Jukay**, **Corey**, and **Jimmy**).
 
@@ -37,7 +37,7 @@ Since this is a code-adjacent **workflow** **tool**, if students are using it co
 
 ---
 
-### Three Students Failed To Show Mastery Of an Entire major Area
+### Three Students Failed To Show Mastery Of An Entire Major Area
 
 - **Carl** and **Desmonda** had 0s across the board for **data structures** (string, arrays, and objects).
 - **Carl** and **Jessica** had 1s for **macro-level logical concepts** (functions and control flow).
@@ -48,7 +48,7 @@ Small-group tutoring on these concepts.
 
 ---
 
-### A discrepancy between array and string mastery
+### A Discrepancy Between Array And String Mastery
 
 - Jessica, Abel, and Caroline showed **mastery** of **strings** despite **failing** to show basic competence with **arrays**.
 - **_Student Recommendation_**: the **connections** between these two concepts be made **clearer** to these students.
