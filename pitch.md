@@ -6,7 +6,7 @@ theme: league
 
 #### by Colin Jaffe
 
-With recommendations for these student and the curriculum in general.
+With recommendations for these students and the curriculum in general.
 
 ---
 
