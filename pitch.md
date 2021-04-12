@@ -22,9 +22,9 @@ Out of 35 students total:
 
 The **recommendation** is **_not_** to stretch their skills on this until **later** in the curriculum.
 
-## Since this is a code-adjacent **workflow** **tool**, if students are using it correctly--and they are--then we're **_right where we should be_**.
+Since this is a code-adjacent **workflow** **tool**, if students are using it correctly--and they are--then we're **_right where we should be_**.
 
---
+---
 
 ### User Story 3 was the most challenging for students
 
@@ -56,6 +56,11 @@ Small-group tutoring on these concepts.
 
 ---
 
-### Conclusion
+## Conclusion
+
+Average Scores:
+
+- 10.61 out of 12 for Code Quality
+- 8.95 out of 10 for User Stories
 
 **Very strong performance** overall, with some concrete areas for improvement. A **big success** for this cohort!
